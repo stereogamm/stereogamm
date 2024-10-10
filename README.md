@@ -38,7 +38,8 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
 
 ![Divider](https://via.placeholder.com/800x1/CCE5FF/FFFFFF?text=+)
 
-### 📍This is repo with my current pet-project
+### 📍My сurrent pet Project: it's like a Tamagotchi, but it's Ramenator
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=stereogamm&repo=web-shop&theme=ambient_gradient&show_owner=true&hide=issues)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=stereogamm&repo=web-shop&theme=ambient_gradient&show_owner=true&hide=issues)](https://github.com/stereogamm/web-shop)
+
 

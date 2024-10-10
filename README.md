@@ -36,5 +36,9 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
 ### 📍 Techie Toolbox: the good, the bad and the compiled
 [![My Skills](https://skillicons.dev/icons?i=html,htmx,css,js,ts,webpack,yarn,jest,jquery,figma,babel,cypress,docker,git,github,grafana,elasticsearch,npm,postman,react,redux,sass&theme=light)](https://skillicons.dev)
 
+![Divider](https://via.placeholder.com/800x1/CCE5FF/FFFFFF?text=+)
 
+### 📍This is repo with my current pet-project
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=stereogamm&repo=web-shop&theme=ambient_gradient&show_owner=true&hide=issues)
 

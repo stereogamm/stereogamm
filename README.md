@@ -14,22 +14,32 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
 
 <h3 align="center">📍 Code, commits & coffee: a day in the life of my GitHub</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stereogamm&theme=github-light&hide_border=true&border_radius=8.8&card_width=477&background=90%2CFFFFFF%2C0074FF&ring=949EEB&fire=FFC16B&currStreakNum=EBAFA4&sideNums=EB9E6E&stroke=EBEBEB)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=stereogamm&theme=github-light&hide_border=true&border_radius=8.8&card_width=477&background=90%2CFFFFFF%2C0074FF&ring=949EEB&fire=FFC16B&currStreakNum=EBAFA4&sideNums=EB9E6E&stroke=EBEBEB" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 ![Divider](https://via.placeholder.com/1000x3/D4CCFF/FFFFFF?text=+)
 ![Divider](https://via.placeholder.com/1000x1/D4CCFF/FFFFFF?text=+)
 
 <h3 align="center">📍 Repositories in action: coding, breaking and coding again!</h3>
-
-![Top languages by repo](https://github-readme-stats.vercel.app/api/top-langs/?username=stereogamm&layout=compact&theme=github_light&langs_count=12&custom_title=Top%20Languages%20by%20my%20repo)
-
+<p align="center">
+ <a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stereogamm&layout=compact&theme=github_light&langs_count=12&custom_title=Top%20Languages%20by%20my%20repo" alt="GitHub Streak"/>
+ </a>
+</p>
 
 ![Divider](https://via.placeholder.com/1000x3/DFC4FF/FFFFFF?text=+)
 ![Divider](https://via.placeholder.com/1000x1/DFC4FF/FFFFFF?text=+)
 
 <h3 align="center">📍 My сommit diary: the languages I speak (or attempt)</h3>
-
-[![Top languages by commits](https://github-readme-stats.vercel.app/api/top-langs/?username=stereogamm&layout=compact&theme=github_light&hide=css,scss,html,mdx,shell&&custom_title=Top%20Languages%20by%20commits)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stereogamm&layout=compact&theme=github_light&hide=css,scss,html,mdx,shell&&custom_title=Top%20Languages%20by%20commits" alt="Top languages by commits"/>
+ </a>
+</p>
 
 ![Divider](https://via.placeholder.com/1000x3/F2C6E3/FFFFFF?text=+)
 ![Divider](https://via.placeholder.com/1000x1/F2C6E3/FFFFFF?text=+)
@@ -53,8 +63,13 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
 ![Divider](https://via.placeholder.com/1000x2/FFE6B3/FFFFFF?text=+)
 ![Divider](https://via.placeholder.com/1000x1/FFE6B3/FFFFFF?text=+)
 
-<h3 align="center">📍 My сurrent pet Project: it's like a Tamagotchi, but it's Ramenator</h3>
+<h3 align="center">📍 My current pet Project: it's like a Tamagotchi, but it's Ramenator</h3>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=stereogamm&repo=web-shop&theme=ambient_gradient&show_owner=true&hide=issues)](https://github.com/stereogamm/web-shop)
+<p align="center">
+  <a href="https://github.com/stereogamm/web-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stereogamm&repo=web-shop&theme=ambient_gradient&show_owner=true&hide=issues" alt="Repo Card" />
+  </a>
+</p>
+
 
 

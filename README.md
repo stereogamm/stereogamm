@@ -71,5 +71,10 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
   </a>
 </p>
 
+<h5 align="center">Welcome to the code experience: 🚫 No Refunds 🚫</h5>
+<h5 align="center">This project is currently under development</h5>
+
+[![GH pages](https://img.shields.io/badge/GitHub-Pages-c051c1?style=for-the-badge&logo=github)]( https://stereogamm.github.io/web-shop/ ) 
+
 
 

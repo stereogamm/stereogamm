@@ -16,7 +16,7 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=stereogamm&theme=github-light&hide_border=true&border_radius=8.8&card_width=477&background=90%2CFFFFFF%2C0074FF&ring=949EEB&fire=FFC16B&currStreakNum=EBAFA4&sideNums=EB9E6E&stroke=EBEBEB" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=stereogamm&theme=ambient-gradient&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=450&card_height=190&ring=9EEB4B&fire=FFB80A&stroke=D9C1FF5A&sideLabels=E9EB56&currStreakLabel=A33FBB&hide_longest_streak=true" alt="GitHub Streak" />
   </a>
 </p>
 

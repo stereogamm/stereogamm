@@ -5,6 +5,11 @@
 
 I'm a `front-end developer` who has traded in my QA hat 🚫 for a coding cape ✅. With a background as Quality Assurance Engineer for both startups and big tech companies, I bring a unique perspective to the world of web development.
 
+➕ I have a passion for creating something new or improving existing products, refining them into high-quality solutions that people will genuinely enjoy using.  
+➕ I’m committed to enhancing my technical skills and broadening my programming experience.  
+➕ I’m eager to join a development team where we can collaborate to build valuable and impactful products together.  
+➕ Currently, I’m actively seeking new job opportunities.  
+
 When I’m not busy debugging code or wondering why my JS won’t behave, you can find me lost in a good book 📚 or trying to convince my dog 🐕 to scoot over just a little bit on my work chair.
 
 <h5 align="center"> Feel free to explore my projects, and remember: there are no bugs, just features in disguise ©️</h5>

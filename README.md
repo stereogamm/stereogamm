@@ -3,9 +3,9 @@
 
 <h2 align="center">Welcome to my little corner of the internet</h2>
 
-I'm a `front-end developer` who has traded in my QA hat 🚫 for a coding cape ✅. With a background as Quality Assurance Engineer for both startups and big tech companies, I bring a unique perspective to the world of web development.
+I'm a `front-end developer` who has traded in my QA hat 🚫 for a coding cape ✅. With a background as Quality Assurance Engineer for startups and big tech companies, I bring a unique perspective to the world of web development.
 
-➕ I have a passion for creating something new or improving existing products, refining them into high-quality solutions that people will genuinely enjoy using.  
+➕ I am passionate about creating something new or improving existing products, refining them into high-quality solutions that people will genuinely enjoy using.  
 ➕ I’m committed to enhancing my technical skills and broadening my programming experience.  
 ➕ I’m eager to join a development team where we can collaborate to build valuable and impactful products together.  
 ➕ Currently, I’m actively seeking new job opportunities.  
@@ -15,7 +15,7 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
 <h5 align="center"> Feel free to explore my projects, and remember: there are no bugs, just features in disguise ©️</h5>
 
 
-<p align="center">▪️ ▪️ ▪️ 🔲 ▪️ ▪️ ▪️</p>
+<p align="center"> ▪️ 🔲 ▪️ </p>
 
  
 <h3 align="center">🧩 Code, commits & coffee: a day in the life of my GitHub</h3>
@@ -44,7 +44,7 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
 </p>
 
 
-<p align="center">▪️ ▪️ ▪️ 🔲 ▪️ ▪️ ▪️</p>
+<p align="center">▪️ 🔲 ▪️</p>
 
 
 <h3 align="center">📬 Let’s Chat (or... just send a friendly dog's photo)</h3>
@@ -53,7 +53,7 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
 </p>
 
 
-<p align="center">▪️ ▪️ ▪️ 🔲 ▪️ ▪️ ▪️</p>
+<p align="center">▪️ 🔲 ▪️</p>
 
 
 <h3 align="center">🪚 Techie Toolbox: the good, the bad and the compiled</h3>
@@ -64,7 +64,7 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
   </a>
 </p>
 
-<p align="center">▪️ ▪️ ▪️ 🔲 ▪️ ▪️ ▪️</p>
+<p align="center">▪️ 🔲 ▪️</p>
 
 <h3 align="center">🦥 My current pet project Ramenator. Because what’s coding without a bowl of virtual noodles?</h3>
 
@@ -77,7 +77,16 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
 <h5 align="center">Welcome to the code experience: 🚫 No Refunds 🚫</h5>
 <h5 align="center">This project is currently under development</h5>
 
-[![GH pages](https://img.shields.io/badge/GitHub-Pages-c051c1?style=for-the-badge&logo=github)]( https://stereogamm.github.io/web-shop/ ) 
+-------
+
+### Links to my deployed projects. Feel free to interact with the frontend
+
+🍜 <a href="https://noodle-and-bytes.vercel.app/" target="_blank">**RAMENATOR**</a>  
+
+🛸 <a href="https://zero-gravity-steakhouse.vercel.app/" target="_blank">**ZERO GRAVITY STEAKHOUSE**</a>  
+
+🌊 <a href="https://vibe-market.vercel.app/" target="_blank">**VIBE MARKET**</a>  
+
 
 
 

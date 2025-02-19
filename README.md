@@ -89,6 +89,6 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
 
 ✨ <a href="https://we-need-to-do-it-perfectly-well.vercel.app/" target="_blank">**WE NEED TO DO IT PERFECTLY WELL**</a>   
 
-
+💟 <a href="https://closing-tag.vercel.app/" target="_blank">**CLOSING TAG**</a> 
 
 

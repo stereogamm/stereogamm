@@ -1,24 +1,17 @@
 
-<h1 align="center">Hello, World! 💻</h1>
+![Header Animation](header.gif)
 
-<h2 align="center">Welcome to my little corner of the internet</h2>
+---
+I'm a front-end developer with a QA background, bringing testing experience to web development
 
-I'm a `front-end developer` who has traded in my QA hat 🚫 for a coding cape ✅. With a background as Quality Assurance Engineer for startups and big tech companies, I bring a unique perspective to the world of web development.
-
-➕ I am passionate about creating something new or improving existing products, refining them into high-quality solutions that people will genuinely enjoy using.  
-➕ I’m committed to enhancing my technical skills and broadening my programming experience.  
-➕ I’m eager to join a development team where we can collaborate to build valuable and impactful products together.  
-➕ Currently, I’m actively seeking new job opportunities.  
-
-When I’m not busy debugging code or wondering why my JS won’t behave, you can find me lost in a good book 📚 or trying to convince my dog 🐕 to scoot over just a little bit on my work chair.
-
-<h5 align="center"> Feel free to explore my projects, and remember: there are no bugs, just features in disguise ©️</h5>
-
-
-<p align="center"> ▪️ 🔲 ▪️ </p>
-
+➕ I'm passionate about creating and improving products that users truly enjoy  
+➕ I'm focused on growing my technical skills and coding experience  
+➕ I want to join a team where we build valuable products together  
+➕ I'm actively job hunting now  
  
-<h3 align="center">🧩 Code, commits & coffee: a day in the life of my GitHub</h3>
+---
+ 
+<h3 align="center">➕ Code, commits & coffee: a day in the life of my GitHub</h3>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -26,37 +19,34 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
   </a>
 </p>
 
+---
 
-
-<h3 align="center">🧩 Repositories in action: coding, breaking and coding again!</h3>
+<h3 align="center">➕ Repositories in action: coding, breaking and coding again!</h3>
 <p align="center">
  <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stereogamm&layout=compact&theme=github_light&langs_count=12&custom_title=Top%20Languages%20by%20my%20repo" alt="GitHub Streak"/>
  </a>
 </p>
 
+---
 
-<h3 align="center">🧩 My сommit diary: the languages I speak (or attempt)</h3>
+<h3 align="center">➕ My сommit diary: the languages I speak (or attempt)</h3>
 <p align="center">
  <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stereogamm&layout=compact&theme=github_light&hide=css,scss,html,mdx,shell&&custom_title=Top%20Languages%20by%20commits" alt="Top languages by commits"/>
  </a>
 </p>
 
+---
 
-<p align="center">▪️ 🔲 ▪️</p>
-
-
-<h3 align="center">📬 Let’s Chat (or... just send a friendly dog's photo)</h3>
+<h3 align="center">➕ Let’s Chat (or... just send a friendly dog's photo)</h3>
 <p align="center">
 <a href="https://linkedin.com/in/marina-sysoliatina-5b45611b5" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="linkedin.com/in/marina-sysoliatina-5b45611b5"/></a>
 </p>
 
+---
 
-<p align="center">▪️ 🔲 ▪️</p>
-
-
-<h3 align="center">🪚 Techie Toolbox: the good, the bad and the compiled</h3>
+<h3 align="center">➕ Techie Toolbox: the good, the bad and the compiled</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -64,9 +54,8 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
   </a>
 </p>
 
-<p align="center">▪️ 🔲 ▪️</p>
-
-<h3 align="center">🦥 My current pet project Ramenator. Because what’s coding without a bowl of virtual noodles?</h3>
+---
+<h3 align="center">➕ My current pet project Ramenator. Because what’s coding without a bowl of virtual noodles?</h3>
 
 <p align="center">
   <a href="https://github.com/stereogamm/web-shop">
@@ -74,8 +63,6 @@ When I’m not busy debugging code or wondering why my JS won’t behave, you ca
   </a>
 </p>
 
-<h5 align="center">Welcome to the code experience: 🚫 No Refunds 🚫</h5>
-<h5 align="center">This project is currently under development</h5>
 
 -------
 

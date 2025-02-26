@@ -2,20 +2,27 @@
 ![Header Animation](header.gif)
 
 ---
-
-![3D Contribution](https://raw.githubusercontent.com/stereogamm/stereogamm/main/profile-3d-contrib/profile-gitblock.svg)
-
----
-I'm a front-end developer with a QA background, bringing testing experience to web development
+I'm a Frontend developer with a QA background, bringing testing experience to web development
 
 ➕ I'm passionate about creating and improving products that users truly enjoy  
 ➕ I'm focused on growing my technical skills and coding experience  
 ➕ I want to join a team where we build valuable products together  
 ➕ I'm actively job hunting now  
- 
+
+
+
+<p align="center">
+<a href="https://linkedin.com/in/marina-sysoliatina-5b45611b5" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="linkedin.com/in/marina-sysoliatina-5b45611b5"/></a>
+</p>
+
+
+
+![3D Contribution](https://raw.githubusercontent.com/stereogamm/stereogamm/main/profile-3d-contrib/profile-gitblock.svg)
+
 ---
+
  
-<h3 align="center">➕ Code, commits & coffee: a day in the life of my GitHub</h3>
+<!--<h3 align="center">➕ Code, commits & coffee: a day in the life of my GitHub</h3>-->
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -23,34 +30,29 @@ I'm a front-end developer with a QA background, bringing testing experience to w
   </a>
 </p>
 
----
 
-<h3 align="center">➕ Repositories in action: coding, breaking and coding again!</h3>
+
+<!--<h3 align="center">➕ Repositories in action: coding, breaking and coding again!</h3>
 <p align="center">
  <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stereogamm&layout=compact&theme=github_light&langs_count=12&custom_title=Top%20Languages%20by%20my%20repo" alt="GitHub Streak"/>
  </a>
-</p>
+</p>-->
 
----
 
-<h3 align="center">➕ My сommit diary: the languages I speak (or attempt)</h3>
+<!--<h3 align="center">➕ My сommit diary: the languages I speak (or attempt)</h3>
 <p align="center">
  <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stereogamm&layout=compact&theme=github_light&hide=css,scss,html,mdx,shell&&custom_title=Top%20Languages%20by%20commits" alt="Top languages by commits"/>
  </a>
-</p>
+</p>-->
+
+
+<!--<h3 align="center">➕ Let’s Chat (or... just send a friendly dog's photo)</h3>-->
 
 ---
 
-<h3 align="center">➕ Let’s Chat (or... just send a friendly dog's photo)</h3>
-<p align="center">
-<a href="https://linkedin.com/in/marina-sysoliatina-5b45611b5" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="linkedin.com/in/marina-sysoliatina-5b45611b5"/></a>
-</p>
-
----
-
-<h3 align="center">➕ Techie Toolbox: the good, the bad and the compiled</h3>
+<!--<h3 align="center">➕ Techie Toolbox: the good, the bad and the compiled</h3>-->
 
 <p align="center">
   <a href="https://skillicons.dev">

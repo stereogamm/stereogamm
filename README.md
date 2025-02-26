@@ -1,7 +1,5 @@
 
 ![Header Animation](header.gif)
-![Snake animation](https://github.com/stereogamm/stereogamm/raw/dist/github-contribution-grid-snake.svg)
-
 
 
 
@@ -82,4 +80,7 @@ I'm a front-end developer with a QA background, bringing testing experience to w
 
 💟 <a href="https://closing-tag.vercel.app/" target="_blank">**CLOSING TAG**</a> 
 
+-------
+
+<!-- ![Snake animation](https://github.com/stereogamm/stereogamm/raw/main/dist/github-contribution-grid-snake.svg) -->
 

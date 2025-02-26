@@ -3,8 +3,8 @@ name: Generate Snake
 on:
   push:
     branches:
-      - main 
-  workflow_dispatch:  
+      - main
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,20 +14,21 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Create output directory
-        run: mkdir -p output  # Создание директории output
+        run: mkdir -p output  
 
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-contribution-grid-snake.svg  # Измените путь на output/
+            output/github-contribution-grid-snake.svg  
             color_snake: "#daf900"  
             color_dots: "#00FF00" 
 
-      - name: Push generated files
+      - name: Upload generated files
         uses: actions/upload-artifact@v4
         with:
           name: snake
-          path: output/github-contribution-grid-snake.svg  # Измените путь на output/
+          path: output/github-contribution-grid-snake.svg  
+
 

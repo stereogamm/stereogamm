@@ -1,7 +1,9 @@
 
 ![Header Animation](header.gif)
 
+---
 
+![3D Contribution](https://raw.githubusercontent.com/stereogamm/stereogamm/main/profile-3d-contrib/profile-gitblock.svg)
 
 ---
 I'm a front-end developer with a QA background, bringing testing experience to web development

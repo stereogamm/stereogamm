@@ -15,9 +15,8 @@ jobs:
 
       - name: Create dist directory if it doesn't exist
         run: |
-          if [ ! -d "dist" ]; then
-            mkdir dist
-          fi
+          echo "Creating dist directory if it doesn't exist"
+          mkdir -p dist
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -28,9 +27,8 @@ jobs:
             color_snake: "#daf900"  
             color_dots: "#00FF00" 
 
-      - name: Push generated files
+      - name: Upload generated snake animation
         uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg
-

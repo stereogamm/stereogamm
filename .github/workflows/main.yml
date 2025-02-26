@@ -11,7 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
+
+      - name: Create dist directory if it does not exist
+        run: mkdir -p dist
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -19,6 +22,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
+            color_snake: "#daf900"  
+            color_dots: "#00FF00" 
 
       - name: Push generated files
         uses: actions/upload-artifact@v4

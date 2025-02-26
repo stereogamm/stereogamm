@@ -26,7 +26,7 @@ jobs:
             color_dots: "#00FF00" 
 
       - name: Push generated files
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v3.1.0
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg

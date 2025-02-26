@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST (18:00 UTC)
+  schedule: # Запускать каждый день в 03:00 JST (18:00 UTC)
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -23,6 +23,7 @@ jobs:
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add .github/workflows/profile-3d.yml  
+          git add .
           git commit -m "Update 3D contributions" || echo "No changes to commit"
           git push
+

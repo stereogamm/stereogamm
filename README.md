@@ -1,6 +1,7 @@
 
 ![Header Animation](header.gif)
-![Snake animation](https://github.com/stereogamm/stereogamm/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/stereogamm/stereogamm/output/github-contribution-grid-snake.svg)
+
 
 
 ---

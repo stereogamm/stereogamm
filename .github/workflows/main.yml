@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main 
-  workflow_dispatch:
+  workflow_dispatch:  
 
 jobs:
   build:
@@ -13,8 +13,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Create dist directory if it does not exist
-        run: mkdir -p dist
+      - name: Create dist directory if it doesn't exist
+        run: |
+          if [ ! -d "dist" ]; then
+            mkdir dist
+          fi
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -30,3 +33,4 @@ jobs:
         with:
           name: snake
           path: dist/github-contribution-grid-snake.svg
+

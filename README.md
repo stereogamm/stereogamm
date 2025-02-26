@@ -1,6 +1,8 @@
 
 ![Header Animation](header.gif)
 
+![Snake animation](https://github.com/stereogamm/stereogamm/blob/output/github-contribution-grid-snake.svg)
+
 ---
 I'm a front-end developer with a QA background, bringing testing experience to web development
 

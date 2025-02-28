@@ -24,9 +24,10 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
  
 <!--<h3 align="center">➕ Code, commits & coffee: a day in the life of my GitHub</h3>-->
 
+
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=stereogamm&theme=ambient-gradient&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=450&card_height=190&ring=9EEB4B&fire=FFB80A&stroke=D9C1FF5A&sideLabels=E9EB56&currStreakLabel=A33FBB&hide_longest_streak=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=stereogamm&theme=ocean-gradient&hide_border=true&border_radius=320&card_width=320&card_height=320&fire=FF1CFA&ring=00E7FF&currStreakLabel=0009D2&sideLabels=081FD9&stroke=9AAFFD&background=90%2C6F99FF%2CBDAAFFEC&hide_longest_streak=true" alt="GitHub Streak" />
   </a>
 </p>
 

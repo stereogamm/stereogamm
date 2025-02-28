@@ -1,5 +1,5 @@
 
-![Header Animation](header_2.gif)
+![Header Animation](header_3.gif)
 
 ---
 I'm a Frontend developer with a QA background, bringing testing experience to web development

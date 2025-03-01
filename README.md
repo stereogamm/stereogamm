@@ -78,7 +78,7 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 <p align="center">
   <a href="https://github.com/stereogamm/web-shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stereogamm&repo=web-shop&theme=ambient_gradient&show_owner=true&hide=issues" alt="Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stereogamm&repo=web-shop&bg_color=8ba1ff&title_color=ffffff&text_color=ffffff&border_radius=5" alt="Repo Card" />
   </a>
 </p>
 

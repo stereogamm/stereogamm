@@ -1,5 +1,5 @@
 
-![Header Animation](header_4.gif)
+![Header Animation](header_5.gif)
 
 ---
 I'm a Frontend developer with a QA background, bringing testing experience to web development
@@ -17,7 +17,7 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 
 
-![3D Contribution](https://raw.githubusercontent.com/stereogamm/stereogamm/main/profile-3d-contrib/profile-gitblock.svg)
+![3D Contribution](https://raw.githubusercontent.com/stereogamm/stereogamm/main/profile-3d-contrib/profile-south-season-animate.svg)
 
 ---
 
@@ -27,19 +27,19 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=stereogamm&theme=ocean-gradient&hide_border=true&border_radius=320&card_width=300&card_height=300&fire=FF1CFA&ring=00E7FF&currStreakLabel=0009D2&sideLabels=081FD9&stroke=9AAFFD&background=90%2C6F99FF%2CBDAAFFEC&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=stereogamm&theme=sunset-gradient&hide_border=true&border_radius=320&card_width=300&card_height=300&fire=FF1CFA&ring=00E7FF&currStreakLabel=0009D2&sideLabels=081FD9&stroke=9AAFFD&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p >
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=stereogamm&theme=ocean-gradient&hide_border=true&border_radius=320&card_width=300&card_height=300&fire=FF1CFA&ring=00E7FF&currStreakLabel=0009D2&sideLabels=081FD9&stroke=9AAFFD&background=90%2C6F99FF%2CBDAAFFEC&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=stereogamm&theme=cyber-streakglow&hide_border=true&border_radius=320&card_width=300&card_height=300&fire=FF07A1&ring=00E7FF&currStreakLabel=FF07A1&sideLabels=081FD9&stroke=9AAFFD&&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=stereogamm&theme=ocean-gradient&hide_border=true&border_radius=320&card_width=300&card_height=300&fire=FF1CFA&ring=00E7FF&currStreakLabel=0009D2&sideLabels=081FD9&stroke=9AAFFD&background=90%2C6F99FF%2CBDAAFFEC&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=stereogamm&theme=ocean-gradient&hide_border=true&border_radius=320&card_width=300&card_height=300&fire=FF1CFA&ring=00E7FF&currStreakLabel=0009D2&sideLabels=081FD9&stroke=9AAFFD&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 <p align="center">
   <a href="https://github.com/stereogamm/web-shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stereogamm&repo=web-shop&bg_color=8ba1ff&title_color=ffffff&text_color=ffffff&border_radius=5" alt="Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stereogamm&repo=web-shop&bg_color=80d0c7&title_color=ffffff&text_color=081ed8&border_radius=5" alt="Repo Card" />
   </a>
 </p>
 

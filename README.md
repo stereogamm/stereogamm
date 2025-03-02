@@ -1,5 +1,5 @@
 
-![Header Animation](header_5.gif)
+![Header Animation](header_6.gif)
 
 ---
 I'm a Frontend developer with a QA background, bringing testing experience to web development
@@ -17,7 +17,7 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 
 
-![3D Contribution](https://raw.githubusercontent.com/stereogamm/stereogamm/main/profile-3d-contrib/profile-south-season-animate.svg)
+![3D Contribution](https://raw.githubusercontent.com/stereogamm/stereogamm/main/profile-3d-contrib/profile-night-green.svg)
 
 ---
 

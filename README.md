@@ -89,7 +89,7 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 🍜 <a href="https://noodle-and-bytes.vercel.app/" target="_blank">**RAMENATOR**</a>  
 
-🪐 <a href="https://nebula-chronicle.vercel.app/" target="_blank">**NEBULA CHRONICLES**</a>  
+🪐 <a href="https://nebula-chronicles.vercel.app/" target="_blank">**NEBULA CHRONICLES**</a>  
 
 🛸 <a href="https://zero-gravity-steakhouse.vercel.app/" target="_blank">**ZERO GRAVITY STEAKHOUSE**</a>  
 

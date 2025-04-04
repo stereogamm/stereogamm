@@ -91,9 +91,7 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 🛸 <a href="https://zero-gravity-steakhouse.vercel.app/" target="_blank">**ZERO GRAVITY STEAKHOUSE**</a>  
 
-🌊 <a href="https://vibe-market.vercel.app/" target="_blank">**VIBE MARKET**</a>  
-
-✨ <a href="https://we-need-to-do-it-perfectly-well.vercel.app/" target="_blank">**WE NEED TO DO IT PERFECTLY WELL**</a>   
+🌊 <a href="https://vibe-market.vercel.app/" target="_blank">**VIBE MARKET**</a>   
 
 💟 <a href="https://closing-tag.vercel.app/" target="_blank">**CLOSING TAG**</a> 
 

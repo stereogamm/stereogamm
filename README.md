@@ -24,8 +24,7 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
  
 <!--<h3 align="center">➕ Code, commits & coffee: a day in the life of my GitHub</h3>-->
 
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=stereogamm&theme=sunset-gradient&hide_border=true&border_radius=320&card_width=300&card_height=300&fire=FF1CFA&ring=00E7FF&currStreakLabel=0009D2&sideLabels=081FD9&stroke=9AAFFD&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
   </a>
@@ -41,7 +40,7 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=stereogamm&theme=ocean-gradient&hide_border=true&border_radius=320&card_width=300&card_height=300&fire=FF1CFA&ring=00E7FF&currStreakLabel=0009D2&sideLabels=081FD9&stroke=9AAFFD&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak" />
   </a>
-</p>
+</p> -->
 
 
 
@@ -74,11 +73,21 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 </p>
 
 ---
-<h3 align="center">➕ My current pet project Ramenator. Because what’s coding without a bowl of virtual noodles?</h3>
+<h3 align="center">➕ The last project I worked on as a frontend developer</h3>
+
+<!-- <p align="center">
+  <a href="https://github.com/stereogamm/frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stereogamm&repo=web-shop&bg_color=80d0c7&title_color=ffffff&text_color=081ed8&border_radius=5" alt="Repo Card" />
+  </a>
+</p> -->
 
 <p align="center">
-  <a href="https://github.com/stereogamm/web-shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stereogamm&repo=web-shop&bg_color=80d0c7&title_color=ffffff&text_color=081ed8&border_radius=5" alt="Repo Card" />
+  <a href="https://github.com/stereogamm/frontend" target="_blank">
+    <img 
+      src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+      width="150" 
+      alt="Frontend Project Repo" 
+    />
   </a>
 </p>
 
@@ -87,9 +96,9 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 ### Links to my deployed projects. Feel free to interact with the frontend
 
-🍜 <a href="https://noodle-and-bytes.vercel.app/" target="_blank">**RAMENATOR**</a>  
-
 🪐 <a href="https://nebula-chronicles.vercel.app/" target="_blank">**NEBULA CHRONICLES**</a>  
+
+🍜 <a href="https://noodle-and-bytes.vercel.app/" target="_blank">**RAMENATOR**</a>  
 
 🛸 <a href="https://zero-gravity-steakhouse.vercel.app/" target="_blank">**ZERO GRAVITY STEAKHOUSE**</a>  
 

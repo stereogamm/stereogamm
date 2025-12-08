@@ -82,11 +82,11 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 </p> -->
 
 <p align="center">
-  <a href="https://github.com/stereogamm/frontend" target="_blank">
+  <a href="https://github.com/stereogamm/team-climate" target="_blank">
     <img 
       src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
       width="150" 
-      alt="Frontend Project Repo" 
+      alt="Team climate project repo" 
     />
   </a>
 </p>

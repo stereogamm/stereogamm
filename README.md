@@ -68,7 +68,7 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,htmx,css,js,ts,webpack,yarn,react,redux,jest,git,sass,jquery,figma,babel,cypress,docker,github,grafana,elasticsearch,npm,postman&theme=light&perline=11" />
+    <img src="https://skillicons.dev/icons?i=react,ts,redux,html,css,sass,js,materialui,webpack,vite,yarn,npm,jest,cypress,git,github,githubactions,figma,vscode,jquery,babel,docker,grafana,elasticsearch,postman&theme=dark&perline=11" />
   </a>
 </p>
 
@@ -94,7 +94,7 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 -------
 
-### Links to my deployed projects. Feel free to interact with the frontend
+### Links to my deployed pet-projects
 
 🪐 <a href="https://nebula-chronicles.vercel.app/" target="_blank">**NEBULA CHRONICLES**</a>  
 

@@ -94,7 +94,9 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 -------
 
-### Links to my deployed pet-projects
+### Links to the my pet-projects
+
+🌒🌔🌕🌖🌘 <a href="https://nebula-chronicles.vercel.app/" target="_blank">**SOLAR**</a>  
 
 🪐 <a href="https://nebula-chronicles.vercel.app/" target="_blank">**NEBULA CHRONICLES**</a>  
 

@@ -96,7 +96,8 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 
 ### Links to the my pet-projects
 
-🌒🌔🌕🌖🌘 <a href="https://nebula-chronicles.vercel.app/" target="_blank">**SOLAR**</a>  
+
+🌒🌔🌕🌖🌘  <a href="https://github.com/stereogamm/solar" target="_blank">**SOLAR**</a> 
 
 🪐 <a href="https://nebula-chronicles.vercel.app/" target="_blank">**NEBULA CHRONICLES**</a>  
 

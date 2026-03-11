@@ -97,9 +97,12 @@ I'm a Frontend developer with a QA background, bringing testing experience to we
 ### Links to the my pet-projects
 
 
-🌒🌔🌕🌖🌘  <a href="https://github.com/stereogamm/solar" target="_blank">**SOLAR** under the development</a> 
+🌒🌔🌕🌖🌘 <a href="https://github.com/stereogamm/solar" target="_blank">**SOLAR** (under the development)</a> 
  
-🌒🌔🌕🌖🌘 <a href="https://solar-ivory-beta.vercel.app/" target="_blank">**SOLAR (deployed app)**</a> 
+🌒🌔🌕🌖🌘 <a href="https://solar-ivory-beta.vercel.app/" target="_blank">**SOLAR** (deployed app)</a> 
+
+🌒🌔🌕🌖🌘 <a href="https://github.com/stereogamm/solar/pulls?q=is%3Apr+is%3Aclosed" target="_blank">**SOLAR** (closed PRs)</a> 
+
 
 🪐 <a href="https://nebula-chronicles.vercel.app/" target="_blank">**NEBULA CHRONICLES**</a>  
 
